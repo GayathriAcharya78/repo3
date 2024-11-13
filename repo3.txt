@@ -1,2 +1,1 @@
-hello world
-this is second line of text file
+nmit dfg
